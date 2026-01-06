@@ -345,6 +345,8 @@ This repository lists some awesome public [Mojo programming language](https://do
 
   - [mzaks/mojo-csv](https://github.com/mzaks/mojo-csv) <img src="https://img.shields.io/github/stars/mzaks/mojo-csv?style=social"/> : This library provides facilities to read and write data in CSV format according to [RFC-4180](https://www.rfc-editor.org/rfc/rfc4180)
 
+  - [databooth/mojo-dotenv](https://github.com/databooth/mojo-dotenv) <img src="https://img.shields.io/github/stars/databooth/mojo-dotenv?style=social"/> : Load environment variables from `.env` files. 98%+ compatible with python-dotenv. Features variable expansion, multiline values, escape sequences, and auto-discovery.
+
 
 
 ## Image Processing
