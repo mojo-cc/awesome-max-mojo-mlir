@@ -184,6 +184,8 @@ This repository lists some awesome public [Mojo programming language](https://do
 
 
 
+  - [dvirarad/mojo-kafka](https://github.com/dvirarad/mojo-kafka) <img src="https://img.shields.io/github/stars/dvirarad/mojo-kafka?style=social"/> : Apache Kafka client for Mojo🔥 — `librdkafka` bindings with a Pythonic producer / consumer / admin API.
+
 ## GPU Programming
 
   - ['gpu' Dialect](https://mlir.llvm.org/docs/Dialects/GPU/) : This dialect provides middle-level abstractions for launching GPU kernels following a programming model similar to that of CUDA or OpenCL.
